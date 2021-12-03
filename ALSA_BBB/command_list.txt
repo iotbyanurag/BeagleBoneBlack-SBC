@@ -1,0 +1,74 @@
+ wget ftp://ftp.alsa-project.org/pub/lib/a...1.0.25.tar.bz2
+   77  ls
+   78  % aplay -vv musik.wav
+   79  %aplay -vv musik.wav
+   80  aplay -vv musik.wav
+   81  lsusb
+   82  alsamix
+   83  alsamixer
+   84  ls
+   85  alsamixer
+   86  shutdown -r now
+   87  ls
+   88  alsamixer
+   89  alsactl store
+   90  aplay -v -v -v
+   91  alsactl init
+   92  cat /proc/asound/version
+   93  cat /proc/asound/cards
+   94  cd /etc/
+   95  ls *asou*
+   96  nano asound.conf
+   97  alsamixer
+   98  cd
+   99  aplay musik.wav -v -V mono
+  100  cd /etc/
+  101  s
+  102  ls
+  103  ls *aso*
+  104  nano aso
+  105  nano asound.conf
+  106  aplay -L
+  107  aplay -L | grep :CARD
+  108  speaker-test -c 2
+  109  ls
+  110  speaker-test -c 2
+  111  aplay -l
+  112  cd /etc/asound.conf
+  113  cd /etc/
+  114  nano asound.conf
+  115  nano asound.conf
+  116  cd
+  117  aplay -D default:PCH musik.wav
+  118  aplay -D default:PCM musik.wav
+  119  aplay -D default musik.wav
+  120  aplay -D musik.wav
+  121  aplay musik.wav
+  122  aplay -l
+  123  nano asound.conf
+  124  cd /etc/
+  125  ls
+  126  nano asound.conf
+  127  cd
+  128  aplay musik.wav
+  129  aplay -D  musik.wav
+  130  ls
+  131  aplay -L
+  132  alsamixer
+  133  aplay musik.wav -v -V mono
+  134  cd /etc/
+  135  nano asound.conf
+  136  cd
+  137  aplay musik.wav -v -V mono
+  138  cd /etc/
+  139  nano asound.conf
+  140  cd
+  141  aplay musik.wav -v -V mono
+  142  aplay musik.wav -v -V mono
+  143  aplay musik.wav -v -V mono
+  144  aplay musik.wav -v -V mono
+  145  aplay musik.wav -v -V mono
+  146  aplay musik.wav -v -V mono
+  147  alsamixer
+  148  aplay musik.wav -v -V mono
+  149  aplay musik.wav -v -V mono
